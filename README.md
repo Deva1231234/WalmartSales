@@ -29,6 +29,7 @@ c. Add a new column named month_name that contains the extracted months of the y
 
 **Business Questions To Answer**
 **Generic Questions**
+
 How many unique cities does the data have?
 In which city is each branch?
 How many branches does each city have?
